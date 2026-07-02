@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kisan Network",
+  "description": "Connecting Farmers, Technology, and Markets - Agritech Startup Platform in Bihar, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
